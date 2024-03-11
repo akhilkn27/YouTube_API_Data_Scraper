@@ -27,7 +27,9 @@ Step 3
 
 Step 4
 
-In the second part of the video, we shall build a logic to extract video details from a particular channel. We shall extract details such as video title, total views each video has got, total number of likes, dislikes and comments each video has got. We shall extract these details for all of the videos posted by a particular channel. We will then analyze this data by loading it into a pandas dataframe. At the end we will create some simple visualization using Seaborn python library.
+- Following Step 3, we'll develop a process to retrieve video details from specific channels. Initially, we'll focus on extracting data from the Codebasics channel, followed by the Krish Naik channel.
+- We will extract information such as the video title, total views, total number of likes, and favorites for each video posted by a specific channel.
+- We will then analyze this data by loading it into a pandas data frame. At the end we will create some simple visualizations using the Seaborn Python library.
 
 
 
