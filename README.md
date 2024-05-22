@@ -1,4 +1,4 @@
-# Python_Project_for_Scraping_YouTube_Using_the_YouTube_Data_API
+# YouTube_API_Data_Scraper
 
 In this project, we demonstrate the creation of a Python project focused on scraping YouTube data using the YouTube Data API. We utilize the API to gather data and subsequently load it into a Pandas DataFrame in Python for Analysis. At the end, we use the Seaborn library to create visualizations based on the extracted data.
 
