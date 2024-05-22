@@ -12,7 +12,6 @@ In this project, we demonstrate the creation of a Python project focused on scra
   
 
 ![52](https://github.com/akhilkn27/Python_Project_for_Scraping_YouTube_Using_the_YouTube_Data_API/assets/121345663/0f9b0db2-81a9-486a-bcbf-d87110589fc0)
-![image](https://github.com/akhilkn27/YouTube_API_Data_Scraper/assets/121345663/d45c16ae-3212-4ca6-a378-f8aaba1f69c0)
 
 
 <h3>Step 2</h3>
@@ -23,6 +22,7 @@ In this project, we demonstrate the creation of a Python project focused on scra
 
 
 ![53](https://github.com/akhilkn27/Python_Project_for_Scraping_YouTube_Using_the_YouTube_Data_API/assets/121345663/72276c2c-5158-4bf4-a148-ecf84b5390b9)
+![image](https://github.com/akhilkn27/YouTube_API_Data_Scraper/assets/121345663/f7a9b437-8516-4739-931a-491d528150e5)
 
   
 <h3>Step 3</h3>
